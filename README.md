@@ -1,6 +1,6 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyojeong&langs_count=10&cache_seconds=60)](https://github.com/yuhyojeong)
 
-### 🛠 Languages and Tools
+### 🛠 Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/> </t>
 <img src="https://img.shields.io/badge/VHDL-2f7674?style=flat-square"/>
