@@ -3,7 +3,7 @@
 ### 🛠 Languages and Tools
 
 <img src="https://img.shields.io/badge/C++-f17f97?style=flat-square"/> </t>
-<img src="https://img.shields.io/badge/VHDL-27d26c?style=flat-square"/>
+<img src="https://img.shields.io/badge/VHDL-2f7674?style=flat-square"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
 
 <!--
