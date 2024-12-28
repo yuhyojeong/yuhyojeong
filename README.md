@@ -1,4 +1,4 @@
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyojeong&langs_count=10&include_all_commits=true)](https://github.com/yuhyojeong)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyojeong&langs_count=10&cache_seconds=60)](https://github.com/yuhyojeong)
 
 ### 🛠 Languages and Tools
 
