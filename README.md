@@ -2,8 +2,8 @@
 
 ### 🛠 Languages and Tools
 
-<img src="https://img.shields.io/badge/C++-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </t>
-<img src="https://img.shields.io/badge/VHDL-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-1572B6?style=flat-square&logo=C++&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/VHDL-339933?style=flat-square&logo=VHDL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
