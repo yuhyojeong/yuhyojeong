@@ -2,9 +2,9 @@
 
 ### 🛠 Languages and Tools
 
-<img src="https://img.shields.io/badge/C++-f17f97?style=flat-square"/> </t>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/> </t>
 <img src="https://img.shields.io/badge/VHDL-2f7674?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/C++-d5546f?style=flat-square"/>
 
 <!--
 **yuhyojeong/yuhyojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
