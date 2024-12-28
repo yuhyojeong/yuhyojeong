@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyojeong&langs_count=10)](https://github.com/yuhyojeong)
 
 <!--
 **yuhyojeong/yuhyojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
