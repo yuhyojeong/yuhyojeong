@@ -1,5 +1,11 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyojeong&langs_count=10)](https://github.com/yuhyojeong)
 
+### 🛠 Languages and Tools
+
+<img src="https://img.shields.io/badge/C++-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/VHDL-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 <!--
 **yuhyojeong/yuhyojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
